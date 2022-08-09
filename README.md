@@ -1,4 +1,4 @@
-# create_component_script
+# Create Component Batch Script
 A Batch script that will automatically create a Next.js component for you.
 You will have the option to choose between Javascript/Typescript for your coding language and CSS/SCSS/SASS for your styling language.
 
