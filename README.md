@@ -9,6 +9,8 @@ This script will create:
   - An `[your_component_name].jsx/tsx` file with some basic boilerplate
   - An empty `[your_component_name].module.css/scss/sass` file 
 
+If you chose Typescript as your language it will also create an empty `type Props` object for you.
+
 ## Usage:
 1. Place create_component.bat in the root directory of your Next.js project
 2. Run `.\create_component.bat` in the console
