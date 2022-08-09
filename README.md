@@ -12,7 +12,7 @@ This script will create:
 If you chose Typescript as your language it will also create an empty `type Props` object for you.
 
 ## Usage:
-1. Place create_component.bat in the root directory of your Next.js project
+1. Place `create_component.bat` in the root directory of your Next.js project
 2. Run `.\create_component.bat` in the console
 3. Follow the instructions
 4. Profit!
